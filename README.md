@@ -53,13 +53,13 @@ The dashboards provide insights into:
 🔗 **Live Tableau Dashboard:**  
 https://public.tableau.com/shared/85D2H9HM3?:display_count=n&:origin=viz_share_link  
 
-📷 **Dashboard Preview:**  
+📷 **Tableau Dashboard Preview:**  
 ![Crowd Funding Dashboard](https://github.com/sudarshan7090/Crowd-Funding/blob/main/Images/Snapshot%20of%20Dashboard-Tableau/Snapshot%20of%20CF%20Dashboard-Tableau.png)
 
-🔗 **Live Tableau Dashboard:**  
-https://public.tableau.com/shared/85D2H9HM3?:display_count=n&:origin=viz_share_link  
+🔗 **Live Power BI Dashboard:**  
+https://app.powerbi.com/view?r=eyJrIjoiMDc3NjViZmQtOTFmNy00YTdiLWE0OTYtMGYwZDNkZjc3YzJhIiwidCI6IjRiNjhjMzliLWU3ZTUtNDMzZC04ODRiLTZmMGQ2NTU1MWVmNyJ9  
 
-📷 **Dashboard Preview:**  
+📷 **Power BI Dashboard Preview:**  
 ![Crowd Funding Dashboard](https://github.com/sudarshan7090/Crowd-Funding/blob/main/Images/Snapshot%20of%20Dashboard-%20Power%20BI/Snapshot%20of%20PowerBI%20Dashboard_1.png)
 ![Crowd Funding Dashboard](https://github.com/sudarshan7090/Crowd-Funding/blob/main/Images/Snapshot%20of%20Dashboard-%20Power%20BI/Snapshot%20of%20PowerBI%20Dashboard_2.png)
 ![Crowd Funding Dashboard](https://github.com/sudarshan7090/Crowd-Funding/blob/main/Images/Snapshot%20of%20Dashboard-%20Power%20BI/Snapshot%20of%20PowerBI%20Dashboard_3.png)
