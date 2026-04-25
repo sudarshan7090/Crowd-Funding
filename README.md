@@ -1,24 +1,24 @@
-# 📊 Crowd Funding Data Insights Dashboard
+# Crowd Funding Data Insights Dashboard
 
-## 📌 Introduction
-This repository presents a comprehensive **Crowd Funding Data Analysis Project** focused on uncovering key insights into campaign performance, success patterns, and backer behavior.
+## Introduction
+This repository presents a comprehensive Crowd Funding Data Analysis project focused on uncovering key insights into campaign performance, success patterns, and backer behavior.
 
-The goal is to leverage data analytics to enable **data-driven decision-making** for improving campaign outcomes and identifying factors that drive success.
+The goal is to leverage data analytics to enable data-driven decision-making for improving campaign outcomes and identifying factors that drive success.
 
-🛠 **Tools Used:** Excel | SQL | Tableau | Power BI  
+**Tools Used:** Excel | SQL | Tableau | Power BI  
 
 ---
 
-## 👨‍💻 About the Project
+## About the Project
 
 This project analyzes a large-scale crowdfunding dataset containing:
 
-- 📁 ~100K+ records  
-- 📊 Multiple attributes: Category, Funding Goal, Amount Raised, Backers, Status, Timeline  
-- 📄 Format: CSV  
+- Approximately 100,000+ records  
+- Multiple attributes: Category, Funding Goal, Amount Raised, Backers, Status, Timeline  
+- Data format: CSV  
 
-### 🎯 Objectives:
-- Analyze project success vs failure trends  
+### Objectives
+- Analyze project success versus failure trends  
 - Identify high-performing categories  
 - Understand backer contribution patterns  
 - Evaluate the impact of funding goals on success rates  
@@ -26,9 +26,9 @@ This project analyzes a large-scale crowdfunding dataset containing:
 
 ---
 
-## 🧹 Data Cleaning & Preparation
+## Data Cleaning and Preparation
 
-Data preprocessing was performed using **Excel, SQL, Power BI (Power Query), and Tableau**, including:
+Data preprocessing was performed using Excel, SQL, Power BI (Power Query), and Tableau, including:
 
 - Handling missing and null values  
 - Data transformation and formatting  
@@ -37,47 +37,49 @@ Data preprocessing was performed using **Excel, SQL, Power BI (Power Query), and
 
 ---
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 
 The dashboards provide insights into:
 
-- ✔ Overall Success Rate  
-- ✔ Total Projects by Category  
-- ✔ Top Categories by Success Rate  
-- ✔ Funding Metrics (Amount Raised, Backers, Duration)  
-- ✔ Project Outcome Distribution  
-- ✔ Top Projects by Funding & Popularity  
-- ✔ Trends Over Time  
-- ✔ Goal Range vs Success Rate  
+- Overall success rate  
+- Total projects by category  
+- Top categories by success rate  
+- Funding metrics (amount raised, backers, duration)  
+- Project outcome distribution  
+- Top projects by funding and popularity  
+- Trends over time  
+- Goal range versus success rate  
 
-🔗 **Live Tableau Dashboard:**  
+### Tableau Dashboard
+**Live Link:**  
 https://public.tableau.com/shared/85D2H9HM3?:display_count=n&:origin=viz_share_link  
 
-📷 **Tableau Dashboard Preview:**  
-![Crowd Funding Dashboard](https://github.com/sudarshan7090/Crowd-Funding/blob/main/Images/Snapshot%20of%20Dashboard-Tableau/Snapshot%20of%20CF%20Dashboard-Tableau.png)
+![Tableau Dashboard](https://github.com/sudarshan7090/Crowd-Funding/blob/main/Images/Snapshot%20of%20Dashboard-Tableau/Snapshot%20of%20CF%20Dashboard-Tableau.png)
 
-🔗 **Live Power BI Dashboard:**  
+---
+
+### Power BI Dashboard
+**Live Link:**  
 https://app.powerbi.com/view?r=eyJrIjoiMDc3NjViZmQtOTFmNy00YTdiLWE0OTYtMGYwZDNkZjc3YzJhIiwidCI6IjRiNjhjMzliLWU3ZTUtNDMzZC04ODRiLTZmMGQ2NTU1MWVmNyJ9  
 
-📷 **Power BI Dashboard Preview:**  
-![Crowd Funding Dashboard](https://github.com/sudarshan7090/Crowd-Funding/blob/main/Images/Snapshot%20of%20Dashboard-%20Power%20BI/Snapshot%20of%20PowerBI%20Dashboard_1.png)
-![Crowd Funding Dashboard](https://github.com/sudarshan7090/Crowd-Funding/blob/main/Images/Snapshot%20of%20Dashboard-%20Power%20BI/Snapshot%20of%20PowerBI%20Dashboard_2.png)
-![Crowd Funding Dashboard](https://github.com/sudarshan7090/Crowd-Funding/blob/main/Images/Snapshot%20of%20Dashboard-%20Power%20BI/Snapshot%20of%20PowerBI%20Dashboard_3.png)
+![Power BI Dashboard](https://github.com/sudarshan7090/Crowd-Funding/blob/main/Images/Snapshot%20of%20Dashboard-%20Power%20BI/Snapshot%20of%20PowerBI%20Dashboard_1.png)  
+![Power BI Dashboard](https://github.com/sudarshan7090/Crowd-Funding/blob/main/Images/Snapshot%20of%20Dashboard-%20Power%20BI/Snapshot%20of%20PowerBI%20Dashboard_2.png)  
+![Power BI Dashboard](https://github.com/sudarshan7090/Crowd-Funding/blob/main/Images/Snapshot%20of%20Dashboard-%20Power%20BI/Snapshot%20of%20PowerBI%20Dashboard_3.png)
 
 ---
 
-## ⚙️ Steps Involved
+## Steps Involved
 
-1. Data Collection (Crowd Funding Dataset)  
-2. Data Cleaning using Excel / Power BI (Power Query)  
-3. Data Transformation & Feature Engineering  
-4. Exploratory Data Analysis (SQL)  
-5. Dashboard Development in Tableau & Power BI  
-6. Dashboard Publishing  
+1. Data collection (crowd funding dataset)  
+2. Data cleaning using Excel and Power BI (Power Query)  
+3. Data transformation and feature engineering  
+4. Exploratory Data Analysis using SQL  
+5. Dashboard development in Tableau and Power BI  
+6. Dashboard publishing  
 
 ---
 
-## ❓ Problem Statements
+## Problem Statements
 
 - What is the overall success rate of crowdfunding projects?  
 - Which categories have the highest project volume?  
@@ -92,17 +94,17 @@ https://app.powerbi.com/view?r=eyJrIjoiMDc3NjViZmQtOTFmNy00YTdiLWE0OTYtMGYwZDNkZ
 
 ---
 
-## 🧠 Data Analysis with SQL
+## Data Analysis with SQL
 
 - Designed structured tables for efficient querying  
 - Applied indexing techniques for performance optimization  
-- Conducted **Exploratory Data Analysis (EDA)** using SQL  
+- Conducted exploratory data analysis using SQL  
 - Used aggregate functions and grouping to identify trends and patterns  
 - Extracted insights on funding behavior, category performance, and success rates  
 
 ---
 
-## 💻 SQL Questions
+## Sample SQL Analysis Questions
 
 - Retrieve all successful projects  
 - Find average funding goal by category  
@@ -117,36 +119,36 @@ https://app.powerbi.com/view?r=eyJrIjoiMDc3NjViZmQtOTFmNy00YTdiLWE0OTYtMGYwZDNkZ
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
-- ✅ ~38% of projects are successful, indicating strong competition  
-- ✅ Product Design & Games categories dominate in volume  
-- ✅ Niche categories show higher success rates (quality > quantity)  
-- ✅ Lower funding goals (0–10K) significantly improve success chances  
-- ✅ A small percentage of projects generate the majority of funding  
-- ✅ High failure rate highlights the importance of strategy & execution  
-
----
-
-## 💡 Business Recommendations
-
-- 🎯 Set realistic and achievable funding goals  
-- 📌 Focus on high-performing categories  
-- 📢 Improve campaign storytelling and early traction  
-- 📊 Analyze failed campaigns to refine strategies  
-- 🚀 Optimize marketing for early backer engagement  
+- Approximately 38% of projects are successful, indicating strong competition  
+- Product Design and Games categories dominate in volume  
+- Niche categories show higher success rates  
+- Lower funding goals (0–10K) significantly improve success chances  
+- A small percentage of projects generate the majority of funding  
+- High failure rates highlight the importance of strategy and execution  
 
 ---
 
-## 🚀 Conclusion
+## Business Recommendations
 
-This project highlights expertise in:
-
-- Data Cleaning & Transformation  
-- SQL-based Data Analysis  
-- Data Visualization (Tableau & Power BI)  
-- Data Storytelling & Business Insights  
+- Set realistic and achievable funding goals  
+- Focus on high-performing categories  
+- Improve campaign storytelling and early traction  
+- Analyze failed campaigns to refine strategies  
+- Optimize marketing for early backer engagement  
 
 ---
 
-⭐ If you found this project useful, feel free to star the repository!
+## Conclusion
+
+This project demonstrates strong capabilities in:
+
+- Data cleaning and transformation  
+- SQL-based data analysis  
+- Data visualization using Tableau and Power BI  
+- Data storytelling and business insight generation  
+
+---
+
+If you find this project useful, consider starring the repository.
